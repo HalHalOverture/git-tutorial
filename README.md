@@ -1,5 +1,6 @@
 #Gitチュートリアル
 
-  - feachure-A
+  - feature-A
   - fix-B
-  - feachure-C
+  - feature-C
+  - feature-D
